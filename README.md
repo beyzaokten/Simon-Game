@@ -23,3 +23,6 @@ Simon is a classic memory game where the computer generates a sequence of colors
 - HTML5
 - CSS3
 - JavaScript (jQuery)
+
+![sg1](https://github.com/beyzaokten/Simon-Game/assets/95380183/d234d1dc-8ae9-48f1-b928-f3ec6a0fe5b7)
+![sg2](https://github.com/beyzaokten/Simon-Game/assets/95380183/637f1f47-c208-416b-b387-a4579ec03ec1)
